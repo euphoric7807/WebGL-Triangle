@@ -1,6 +1,8 @@
 Created and tested on Windows 11 
 using a Chrome, Firefox, Edge, Brave
 
+Created for the Foundations of Computer Graphics course of the University of Vienna
+
 #Administrative - Book citation 
 "Image-space algorithms works as part of the projection process
 and seek to determine the relationship among object points on each
@@ -18,4 +20,5 @@ to understand the things that weren't that well explained in the youtube video. 
 detailed explanation on everything in a simple way. I think the best way to follow the
 youtube tutorial is to also read the website parallel to it. The problem with the website is 
 that you don't really see how to handle errors while the youtube tutorial provides a couple 
+
 of error handling methods. 
